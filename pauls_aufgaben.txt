@@ -1,0 +1,7 @@
+1. Erstelle einen neuen branch, der auf `david-branch` rebased ist.
+2. Erstelle datei mit namen datei.txt und bisschen text als inhalt.
+3. Comitte datei mit passender commit message.
+4. Pushe changes auf remote
+5. Erstelle Pull Request von deinem branch auf `david-branch`
+
+Evtl musst du das repo vorher forken.
